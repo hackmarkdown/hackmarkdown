@@ -1,16 +1,39 @@
-## Hi there 👋
+# HackMarkdown 🚀
 
-<!--
-**hackmarkdown/hackmarkdown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Educational 3D Scrolling App & Interactive Markdown Engine**
 
-Here are some ideas to get you started:
+Un ecosistema interactivo impulsado por **Markdown**, **TypeScript** y **C++ / Unreal Engine 5**, diseñado para conectar documentación dinámica y controles interactivos con entornos gráficos 3D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* **Core Graphics & Engine**: Unreal Engine 5 (C++)
+* **Interactive Engine**: TypeScript / JavaScript (Node.js)
+* **Markup Language**: Markdown / MDX AST
+* **Version Control**: Git & GitHub Actions
+
+---
+
+## 📦 Características Principales
+
+* 📝 **Parseo Dinámico**: Conversión de Markdown a estructuras interactivas en tiempo real.
+* 🎮 **Integración con UE5**: Exposición de variables y triggers C++ invocables desde archivos Markdown.
+* 📜 **Scroll Interactivo 3D**: Experiencia narrativa y educativa sincronizada con el desplazamiento de pantalla.
+
+---
+
+## 🚀 Inicio Rápido
+
+### Prerrequisitos
+
+* **Node.js**: `v18.x` o superior
+* **Unreal Engine**: `5.3+`
+* **Compilador C++**: MSVC / Clang con soporte para C++20
+
+### Instalación Local
+
+1. Clonar el repositorio:
+   ```bash
+   git clone [https://github.com/hackmarkdown/hackmarkdown.git](https://github.com/hackmarkdown/hackmarkdown.git)
+   cd hackmarkdown
